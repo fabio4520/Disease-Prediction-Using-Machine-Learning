@@ -5,14 +5,10 @@ https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning
 
 Visualization of the features:
 
-![]()
-
-
-
-
+![](https://github.com/fabio4520/Disease-Prediction-Using-Machine-Learning/blob/master/images/featureVisualization.png)
 
 Heatmap of the data:
-![]()
+![](https://github.com/fabio4520/Disease-Prediction-Using-Machine-Learning/blob/master/images/correlationHeatmap.png)
 
 The results of the models implemented on this project are:
 1. K Neares Neighbour: 100%
